@@ -1,1 +1,4 @@
-# learn-shell
+# larn-shell
+
+Srikanth Reddy
+
